@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shopware/storefront-types.git"
+    "url": "git+https://github.com/shopwareLabs/storefront-types.git"
   },
   "bugs": {
-    "url": "https://github.com/shopware/storefront-types/issues"
+    "url": "https://github.com/shopwareLabs/storefront-types/issues"
   },
   "author": "shopware AG",
   "license": "MIT"
