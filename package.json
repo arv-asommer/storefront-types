@@ -1,0 +1,21 @@
+{
+  "name": "@shopware-ag/storefront-types",
+  "version": "0.1.0",
+  "description": "Provides Shopware Storefront Typescript types",
+  "types": "index.d.ts",
+  "dependencies": {
+    "@types/bootstrap": "^5.2.0"
+  },
+  "devDependencies": {
+    "typescript": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shopware/storefront-types.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shopware/storefront-types/issues"
+  },
+  "author": "shopware AG",
+  "license": "MIT"
+}
