@@ -6,8 +6,12 @@ export default interface PluginBaseClass {
     el: HTMLElement;
     $emitter: NativeEventEmitter;
     _pluginName: String;
-    initialOptions: object;
-    options: object;
+    initialOptions: {
+	[key: string]: any;
+    };
+    options: {
+	[key: string]: any;
+    };
     _initialized: boolean;
     init(): void;
     _update(): void;
